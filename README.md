@@ -12,4 +12,4 @@ Este proyecto consiste en *hacer funcionales los botones* de una tarjeta de prod
 ---
 
 ## 🔗 Visualización del Desafío en formato web (Card)
-[🌐 Tarjeta simple - Repositorio en GitHub](https://github.com/LuisCifuentesP/Calculadora-en-Web)
+[🌐 Tarjeta insertada en pagina web - Repositorio en GitHub](https://github.com/LuisCifuentesP/Calculadora-en-Web)
